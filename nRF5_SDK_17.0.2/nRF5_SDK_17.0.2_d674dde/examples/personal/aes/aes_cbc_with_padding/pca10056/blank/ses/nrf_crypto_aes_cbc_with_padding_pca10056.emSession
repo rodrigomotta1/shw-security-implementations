@@ -1,0 +1,49 @@
+<!DOCTYPE CrossStudio_Session_File>
+<session>
+ <Bookmarks/>
+ <Breakpoints groups="Breakpoints" active_group="Breakpoints">
+  <BreakpointListItem trigger="" line="231" counter="0" hardwareBreakpoint="" isFunctionBreakpoint="false" action="" expression="" group="Breakpoints" type="Breakpoint" state="2" filename="../../../main.c" useHWbreakpoint="false"/>
+ </Breakpoints>
+ <ExecutionProfileWindow/>
+ <FrameBufferWindow>
+  <FrameBufferWindow bufferHeight="-1" addressSpace="" addressText="" bufferWidth="-1"/>
+ </FrameBufferWindow>
+ <Memory1/>
+ <Memory2/>
+ <Memory3/>
+ <Memory4/>
+ <Project>
+  <ProjectSessionItem path="nrf_crypto_aes_cbc_with_padding_pca10056"/>
+  <ProjectSessionItem path="nrf_crypto_aes_cbc_with_padding_pca10056;nrf_crypto_aes_cbc_with_padding_pca10056"/>
+  <ProjectSessionItem path="nrf_crypto_aes_cbc_with_padding_pca10056;nrf_crypto_aes_cbc_with_padding_pca10056;Application"/>
+  <ProjectSessionItem path="nrf_crypto_aes_cbc_with_padding_pca10056;nrf_crypto_aes_cbc_with_padding_pca10056;nRF_Crypto"/>
+ </Project>
+ <Register1/>
+ <Register2/>
+ <Register3/>
+ <Register4/>
+ <Threads>
+  <ThreadsWindow showLists=""/>
+ </Threads>
+ <TraceWindow>
+  <Trace enabled="Yes"/>
+ </TraceWindow>
+ <Watch1>
+  <Watches active="1" update="Never"/>
+ </Watch1>
+ <Watch2>
+  <Watches active="0" update="Never"/>
+ </Watch2>
+ <Watch3>
+  <Watches active="0" update="Never"/>
+ </Watch3>
+ <Watch4>
+  <Watches active="0" update="Never"/>
+ </Watch4>
+ <Files>
+  <SessionOpenFile windowGroup="DockEditLeft" x="117" y="229" useTextEdit="1" openedFrom="" useBinaryEdit="0" left="0" path="../../../main.c" selected="1" top="205" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="276" useTextEdit="1" openedFrom="" useBinaryEdit="0" left="0" path="nrf_crypto_aes_cbc_with_padding_pca10056.emProject" selected="0" top="249" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="223" useTextEdit="1" openedFrom="/home/rodrigo/.nordic_sdk/nRF5_SDK_17.0.2/nRF5_SDK_17.0.2_d674dde/examples/personal/aes/aes_cbc_with_padding/main.c" useBinaryEdit="0" left="0" path="../../../../../../../components/libraries/crypto/nrf_crypto_aes.c" selected="0" top="209" codecName="Default"/>
+ </Files>
+ <ARMCrossStudioWindow activeProject="nrf_crypto_aes_cbc_with_padding_pca10056" fileDialogDefaultFilter="*.c" autoConnectTarget="J-Link" buildConfiguration="Debug" sessionSettings="" debugSearchFileMap="" fileDialogInitialDirectory="" debugSearchPath="" autoConnectCapabilities="3711"/>
+</session>

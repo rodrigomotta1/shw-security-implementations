@@ -1,0 +1,51 @@
+<!DOCTYPE CrossStudio_Session_File>
+<session>
+ <Bookmarks/>
+ <Breakpoints groups="Breakpoints" active_group="Breakpoints"/>
+ <ExecutionProfileWindow/>
+ <FrameBufferWindow>
+  <FrameBufferWindow bufferHeight="-1" addressSpace="" addressText="" bufferWidth="-1"/>
+ </FrameBufferWindow>
+ <Memory1/>
+ <Memory2/>
+ <Memory3/>
+ <Memory4/>
+ <Project>
+  <ProjectSessionItem path="rsa_pca10056"/>
+  <ProjectSessionItem path="rsa_pca10056;rsa_pca10056"/>
+  <ProjectSessionItem path="rsa_pca10056;rsa_pca10056;Application"/>
+  <ProjectSessionItem path="rsa_pca10056;rsa_pca10056;nRF_Log"/>
+ </Project>
+ <Register1/>
+ <Register2/>
+ <Register3/>
+ <Register4/>
+ <Threads>
+  <ThreadsWindow showLists=""/>
+ </Threads>
+ <TraceWindow>
+  <Trace enabled="Yes"/>
+ </TraceWindow>
+ <Watch1>
+  <Watches active="1" update="Never"/>
+ </Watch1>
+ <Watch2>
+  <Watches active="0" update="Never"/>
+ </Watch2>
+ <Watch3>
+  <Watches active="0" update="Never"/>
+ </Watch3>
+ <Watch4>
+  <Watches active="0" update="Never"/>
+ </Watch4>
+ <Files>
+  <SessionOpenFile windowGroup="DockEditLeft" x="18" y="75" useTextEdit="1" openedFrom="" useBinaryEdit="0" left="0" path="../../../main.c" selected="0" top="62" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="39" useTextEdit="1" openedFrom="" useBinaryEdit="0" left="0" path="../../../integration_test_ssi_rsa_vectors.c" selected="0" top="22" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="21" y="56" useTextEdit="1" openedFrom="" useBinaryEdit="0" left="0" path="../../../../../../../external/nrf_cc310/common/integration_test_plat_utils.c" selected="0" top="60" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="85" useTextEdit="1" openedFrom="/home/rodrigo/.nordic_sdk/nRF5_SDK_17.0.2/nRF5_SDK_17.0.2_d674dde/examples/personal/nrf_cc310/rsa/main.c" useBinaryEdit="0" left="0" path="../../../../../../../external/nrf_cc310/include/sns_silib.h" selected="0" top="67" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="9" y="57" useTextEdit="1" openedFrom="" useBinaryEdit="0" left="0" path="../../../../../../../components/libraries/log/nrf_log_ctrl.h" selected="1" top="36" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="776" useTextEdit="1" openedFrom="" useBinaryEdit="0" left="0" path="../config/sdk_config.h" selected="0" top="743" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="9" y="80" useTextEdit="1" openedFrom="" useBinaryEdit="0" left="0" path="../../../../../../../components/libraries/log/nrf_log.h" selected="0" top="48" codecName="Default"/>
+ </Files>
+ <ARMCrossStudioWindow activeProject="rsa_pca10056" fileDialogDefaultFilter="*.c;*.cpp;*.cxx;*.cc;*.h;*.hpp;*.hxx" autoConnectTarget="J-Link" buildConfiguration="Release" sessionSettings="" debugSearchFileMap="" fileDialogInitialDirectory="/home/rodrigo/Documents/Puc/tcc/i2c_esbTx_HR" debugSearchPath="" autoConnectCapabilities="3199"/>
+</session>
